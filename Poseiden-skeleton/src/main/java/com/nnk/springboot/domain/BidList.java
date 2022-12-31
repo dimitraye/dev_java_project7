@@ -1,7 +1,9 @@
 package com.nnk.springboot.domain;
 
-import lombok.AllArgsConstructor;
+
+
 import lombok.Data;
+import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Required;
 
